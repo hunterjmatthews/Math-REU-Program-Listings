@@ -1,0 +1,29 @@
+name: Generating README file
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      - name: setup dependencies
+        run: |
+          pip install beautifulsoup4
+          pip3 install requests
+          pip install bs4
+          
+      - name: Running main.py file
+        env:
+          SOME_SECRET: ${{ secrets.SOME_SECRET }}
+        run: python main.py
+      
+      - name: push changes
+        uses: actions-go/push@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
