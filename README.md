@@ -24,7 +24,6 @@ This page contains a directory of 2023 Research Experience for Undergraduates (R
 | University/Institute | Location | Start Date - End Date | Link |
 | -------------------- | -------- | --------------------- | ---- |
 | Baruch College (CUNY) | New York, NY | Jun 12 - Aug 4 | https://geometrynyc.wixsite.com/home/combinatorics-reu
-
 | Bernoulli Center | Lausanne, Switzerland | N/A - N/A | https://www.epfl.ch/labs/erg/young-researchers-in-mathematics-program/
 | Bigelow, Laboratory for Ocean Sciences | East Boothbay, ME | May 21 - Jul 28 | https://www.bigelow.org/education/reu/
 | BioXFEL | Varies | May 30 - Aug 4 | https://www.bioxfel.org/education/undergraduate-internships
@@ -47,18 +46,17 @@ This page contains a directory of 2023 Research Experience for Undergraduates (R
 | Florida International Univeresity | Miami, FL | N/A - N/A | https://case.fiu.edu/mathstat/opportunities/amrpu/index.html
 | Georgia Instititute of Technology | Atlanta, GA | June - July | https://math.gatech.edu/undergraduate-research
 | IAS program for Women and Mathematics | Princeton, NJ | May 21 - May 26 | https://www.ias.edu/math/wam/program-years/2023-program-women-and-mathematics
-
 | Icahn School of Medicine | New York, NY | Jun 5 - Aug 11 | https://labs.icahn.mssm.edu/maayanlab/summer-research-program/
 | ICERM (Brown University) | Providence, RI | Jun 12 - Aug 4 | https://icerm.brown.edu/summerug/2023/
 | Iowa State University | Ames, IA | Jun 5 - Jul 28 | https://reu.math.iastate.edu/
 | IST Austria | Austria | N/A - N/A | https://phd.pages.ist.ac.at/isternship/
 | Ithaca College | Ithaca, NY | May 31 - Jul 28 | https://www.ithaca.edu/academics/school-humanities-and-sciences/mathematics/nsf-reu-dynamical-systems-ic
 | James Madison University | Harrisonburg, VA | May 22 - Jul 14 | https://www.jmu.edu/mathstat/reu/index.shtml
-| Jet Propulsion Laboratory
+| Jet Propulsion Laboratory | N/A | N/A | N/A |
 California Institute of Technology (CalTech) | Pasadena, CA | nan - nan | https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
 | Leadership Alliance | Varies | Varies - Varies | https://theleadershipalliance.org/summer-research-early-identification-program
 | MathILy-EST (Bryn Mawr College) | Bryn Mawr, PA | mid-June - mid-August | http://www.mathily.org/mathilyest/
 | Moravian University | Bethlehem, PA | N/A - N/A | https://www.moravian.edu/mathematics/reu
-| MSRI-UP | Berkeley, CA
+| MSRI-UP | Berkeley, CA | N/A - N/A | N/A
 SLMath | Jun 10 - Jul 23 | https://www.msri.org/web/msri/education/for-undergraduates/msri-up
 | NASA Internship program | Varies | Varies - Varies | http://intern.nasa.gov/
