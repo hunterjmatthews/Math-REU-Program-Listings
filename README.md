@@ -1,7 +1,7 @@
 # 2023 Mathematics REU List
 ## Description: 
 This page contains a directory of 2023 Research Experience for Undergraduates (REUs) aimed at mathematics students. This directory is built automatically using a combination of Python, Github Actions, and data obtained from [MathPrograms](https://www.mathprograms.org) and [https://sites.google.com/view/mathreu](Math REU Programs). It is updated everyday at exactly 12:00 AM. In the future, I will update the program to pull from multiple REU sites.
-## [https://www.mathprograms.org/](MathPrograms): 
+ ## Math REU Programs: 
 | University/Institute | Location | Subject Area | Program Link | Application Link | Deadline |
 | -------------------- | -------- | ------------ | ------------ | ---------------- | -------- |
 | Baruch College (CUNY), Mathematics  | New York, New York 10010, United States  | Not Provided | [Program](https://geometrynyc.wixsite.com/home/combinatorics-reu) | [Apply](https://www.mathprograms.org/db/82/1371/apply) | 2023/02/15 11:59PM | 
@@ -20,7 +20,7 @@ This page contains a directory of 2023 Research Experience for Undergraduates (R
 | Williams College, Mathematics and Statistics  | Williamstown, Massachusetts 01267, United States  | Statistics | [Program](http://math.williams.edu/small/) | [Apply](https://www.mathprograms.org/db/SMALLREU/1356/apply) | 2023/02/01 11:59PM | 
 | Worcester Polytechnic Institute, Mathematical Sciences Department  | Worcester, Massachusetts 01609, United States  | Industrial Mathematics and Statistics | [Program](http://www.wpi.edu/+CIMSREU) | [Apply](https://www.mathprograms.org/db/86/1370/apply) | (posted 2022/11/01, listed until 2023/05/01) | 
 
-##[https://sites.google.com/view/mathreu](Math REU Programs): 
+ ## Math REU Programs: 
 | University/Institute | Location | Start Date - End Date | Link |
 | -------------------- | -------- | --------------------- | ---- |
 | Baruch College (CUNY) | New York, NY | Jun 12 - Aug 4 | https://geometrynyc.wixsite.com/home/combinatorics-reu
