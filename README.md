@@ -57,6 +57,6 @@ California Institute of Technology (CalTech) | Pasadena, CA | nan - nan | https:
 | Leadership Alliance | Varies | Varies - Varies | https://theleadershipalliance.org/summer-research-early-identification-program
 | MathILy-EST (Bryn Mawr College) | Bryn Mawr, PA | mid-June - mid-August | http://www.mathily.org/mathilyest/
 | Moravian University | Bethlehem, PA | N/A - N/A | https://www.moravian.edu/mathematics/reu
-| MSRI-UP | Berkeley, CA | N/A - N/A | N/A
-SLMath | Jun 10 - Jul 23 | https://www.msri.org/web/msri/education/for-undergraduates/msri-up
+| MSRI-UP | Berkeley, CA | N/A - N/A | N/A |
+| SLMath | N/A | Jun 10 - Jul 23 | https://www.msri.org/web/msri/education/for-undergraduates/msri-up
 | NASA Internship program | Varies | Varies - Varies | http://intern.nasa.gov/
